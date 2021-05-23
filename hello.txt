@@ -5,3 +5,4 @@ Hello Git!
 Hello World!
 ----------------- hot-fix
 ----------------- master
+----------------- hot-fix
