@@ -1,0 +1,5 @@
+This is the first day for me to study Git!
+Hello World!
+Hello World!
+Hello World!
+Hello World!
